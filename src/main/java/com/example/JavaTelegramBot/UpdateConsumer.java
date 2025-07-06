@@ -20,8 +20,7 @@ import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.Keyboard
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.meta.generics.TelegramClient;
 
-import java.io.IOException;
-import java.net.MalformedURLException;
+import java.io.IOException;;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
